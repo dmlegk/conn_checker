@@ -1,0 +1,6 @@
+||Zone name||Source||Destination||Port||Status||
+|zone|host1 | host2 | 8220 | comment |
+|zone|host1 (192.168.1.1) | host2 | 8220 | doesn't matter |
+|zone|host1 |host2 (192.168.1.2) |8258|(/)|
+|zone|host1 (192.168.1.1) |host2 (192.168.1.2) |9999|(-)|
+
